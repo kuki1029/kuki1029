@@ -1,23 +1,31 @@
-<h1 align="center">Hi there, I'm Kunal Varkekar! 👋</h1>
+<h1 align="center">Hi there, I'm Kunal!</h1>
 
 ---
 
-### 👨‍💻 About Me
-I'm a physicist with a passion for creating physics simulations to help make complex concepts more accessible and engaging. When I'm not experimenting with simulations, I'm building websites as a full-stack developer, bringing ideas to life from frontend to backend.
+### About Me
+- I'm a physicist turned builder
+- Worked with large teams on military software to small startups shipping new features everyday
+- Worked on a real Quantum Computer
+- Unconventional background brings some unique problem solving
 
-- ⚛️ **Physics Simulations**: Exploring and demonstrating the beauty of physics through code.
-- 💻 **Full-Stack Development**: Crafting responsive, intuitive, and dynamic websites.
-- 🍲 **Personal Interests**: Yoga, cooking, and weightlifting!
+  
+### Tech Stack
+- **React** TS: Worked on complex codebases
+- **Node**: Used TCP + UDP to create a local chat app over secure connection
+- **Python**: Building LLM apps
+- **DevOps**: Docker + Kubernetes
 
-### 🌱 Always Learning
-I'm constantly expanding my skillset by diving into new frameworks, tools, and languages that help me grow both as a physicist and a developer.
+But these are just technologies. I've learned these all myself. My architecture decisions and patterns transcend the choice of technology.
 
-### 📫 Get in Touch
-- **Email**: [pvarkeka@uwaterloo.ca](mailto:pvarkeka@uwaterloo.ca)
-- **LinkedIn**: [https://www.linkedin.com/in/kunal-varkekar/](https://www.linkedin.com/in/kunal-varkekar/)
+I am also learning how to better build distributed systems to support lower latency LLM apps and support millions of users.  
+
+###  Get in Touch
+- [pvarkeka@uwaterloo.ca](mailto:pvarkeka@uwaterloo.ca)
+- [LinkedIn](https://www.linkedin.com/in/kunal-varkekar/)
+- [My Website](https://imkunal.ca/)
 
 ---
 
 <p align="center">
-  <strong>“Coding physics simulations, designing websites, and making it all look good in the process.”</strong>
+  <strong>“Find a problem worth solving and dedicate my life to it.”</strong>
 </p>
